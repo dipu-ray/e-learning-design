@@ -8,14 +8,14 @@ A clean, modern, and fully responsive e-learning platform UI — built with **pu
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Responsive](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)](#-responsive-design)
 
-[Live Demo]() · [GitHub](https://github.com/dipu-ray) · [LinkedIn](https://www.linkedin.com/in/dipu-ray/)
+[Live Demo](https://dipu-ray.github.io/e-learning-design/) · [GitHub](https://github.com/dipu-ray) · [LinkedIn](https://www.linkedin.com/in/dipu-ray/)
 
 </div>
 
 ---
 
 **Started:** 16 April, 2026  
-**Last Updated:** 21 June, 2026  
+**Last Updated:** 22 June, 2026  
 **Author:** Dipu Ray
 
 ---
@@ -44,7 +44,7 @@ This project is ideal for developers who want a clean e-learning template to lea
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="" alt="E-Learning Design Preview" width="700">
+  <img src="./assets/project-demo/preview.png" alt="E-Learning Design Preview" width="700">
 </div>
 
 ---
@@ -57,6 +57,7 @@ e-learning-design/
 ├── assets/                 # Static files
 │   └── images/             # Images & logo
 │   └── project-demo/       # Project preview
+│   └── svg/                # Icons or SVG
 ├── README.md               # Project documentation
 ├── index.html              # Main e-learning page markup
 └── style.css               # All styling and responsive layout
