@@ -38,7 +38,6 @@ body {
 header {
     color: var(--p-color);
     background: radial-gradient(circle at center, #1a2a44 0%, #0b0f19 100%);
-    min-height: 100vh;
     margin: 0;
 }
 
@@ -133,7 +132,7 @@ header {
 /* Header content */
 .header-content {
     text-align: center;
-    padding-top: 350px;
+    padding: 35vh 0;
 }
 
 .header-content h1 {
@@ -825,5 +824,16 @@ footer {
         text-align: center;
         width: 80%;
         margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .header-content h1 {
+        font-size: 40px;
+        line-height: 3rem;
+    }
+
+    .content img {
+        width: 100%;
     }
 }

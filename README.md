@@ -15,7 +15,7 @@ A clean, modern, and fully responsive e-learning platform UI — built with **pu
 ---
 
 **Started:** 16 April, 2026  
-**Last Updated:** 22 June, 2026  
+**Last Updated:** 24 June, 2026  
 **Author:** Dipu Ray
 
 ---
